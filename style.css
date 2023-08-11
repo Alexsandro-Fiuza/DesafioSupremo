@@ -26,46 +26,6 @@
   --switch-bg: url(./assets/sun.svg);
 }
 
-.light #you {
-  position: absolute;
-  right: 50%;
-  display: flex;
-  align-items: center;
-  justify-content: center;
-}
-
-.light #inst {
-  position: absolute;
-  left: 42%;
-  display: flex;
-  align-items: center;
-  justify-content: center;
-  padding: 0 -1px;
-}
-
-
-.light #git {
-  position: absolute;
-  left: 50%;
-  display: flex;
-  align-items: center;
-  justify-content: center;
-}
-
-
-.light #face {
-  position: absolute;
-  left: 54%;
-  display: flex;
-  align-items: center;
-  justify-content: center;
-  margin: 40px 0;
-}
-
-.light #social {
-  margin: 35px ;
-  font-size: 26px;
-}
 
 body {
   background: var(--bg-url) top center/cover;
